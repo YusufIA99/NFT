@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Introduction
+This project serves as a frontend interface for an NFT marketplace. It includes features for displaying NFTs, searching, and filtering through a user-friendly interface. The project was designed in Figma, which provided a clear and modern design i could develop along. 
 
-Currently, two official plugins are available:
+# Technologies Used
+React: A JavaScript library for building user interfaces.
+Vite: A build tool that provides a faster and leaner development experience for modern web projects.
+Bootstrap: A CSS framework for building responsive and mobile-first websites.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Live Demo
+Check out the live demo of the project https://yusufia99.github.io/NFT-project/.
