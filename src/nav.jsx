@@ -18,7 +18,7 @@ const Navigation = () => {
               <Nav.Link href="#hero" className="text-white">About</Nav.Link>
               <Nav.Link href="#Analytics" className="text-white">Pricing</Nav.Link>
               <Nav.Link href="#Contact" className="text-white">Contact</Nav.Link>
-              <Nav.Link href="/" className="text-white">Buy NFTs</Nav.Link>
+              <Nav.Link href="#Contact" className="text-white">Buy NFTs</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
