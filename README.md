@@ -9,6 +9,6 @@ Vite: A build tool that provides a faster and leaner development experience for 
 Bootstrap: A CSS framework for building responsive and mobile-first websites.
 
 # Live Demo
-Check out the live demo of the project [https://yusufia99.github.io/NFT-project/.](https://yusufia99.github.io)
+Check out the live demo of the project [[https://yusufia99.github.io/NFT-project/.](https://yusufia99.github.io)](https://yusufia99.github.io/NFT/)
 
 Check out the design for the project here https://www.figma.com/design/Zn0NO16VITl6byKhZ7Isvd/Frontend-af-NFT-project?node-id=0-1&t=wZThOg2V0rQu5nWc-1. 
